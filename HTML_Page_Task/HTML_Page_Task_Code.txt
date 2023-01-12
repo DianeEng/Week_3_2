@@ -1,0 +1,53 @@
+HTML
+
+!DOCTYPE html>
+<html>
+    <head> <title>Imani S. Dickson - Full Stack </title>
+        <style>img {width: 100px; 
+        border-radius: 50px;
+        float: left; 
+        margin-right: 10px} 
+        
+       
+        </style>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <img src="Images/Engineer_Stock_Pic.jpg" alt="An image of Engineers @ work"> 
+      
+            <h1> About Me </h1>
+            <h2> Imani Dickson - Full Stack Track </h2> 
+            "Learning and growing w/ Full Stack Web Developement"
+             <p> I'm in the 2022 cohort @ RSA. Follow me on the interwebs. 
+                I am have a strong precendence to learn and 
+                will upload my portfolio soon!</p>
+        
+        <h3> Program Goals </h3>
+        
+        <ul>
+            <li> Front End</li>
+            <li> Back End</li> 
+            <li> Develop(Her) </li>
+            <li> C.E.O. - Entrepreneurship </li>
+        </ul>
+
+    </body>
+</html></html>
+
+
+
+CSS
+
+body {
+  background-color: aquamarine;
+}
+
+title {
+  font-size: xx-large;
+}
+
+h1 {
+  font-size: medium;
+}
+
+p { font-weight: bold; color-interpolation-filters: auto;}
